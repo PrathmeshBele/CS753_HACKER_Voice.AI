@@ -11,6 +11,6 @@ Here, we have implemented it for 10 epoches, we can see that the loss fluctuatin
 
 We encountered a problem in our testing function in this file
 
-Therefore, we had used a readymade test function for along a training function which we used to train for 250 epoches on a larger TIMIT dataset with 630 speakers.
+Therefore, in CS753.ipynb, we had used a readymade test function for along a training function which we used to train for 250 epoches on a larger TIMIT dataset with 630 speakers.
 On this dataset, 10% data, i.e. 63 speaker's data was used for testing where we got an EER of around 16%
 
